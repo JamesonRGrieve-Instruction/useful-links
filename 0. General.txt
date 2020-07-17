@@ -1,0 +1,2 @@
+Writing Pseudocode:
+https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/

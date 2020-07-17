@@ -1,0 +1,5 @@
+JS Cheatsheet:
+https://htmlcheatsheet.com/js/
+
+JS W3 Schools:
+https://www.w3schools.com/js/default.asp

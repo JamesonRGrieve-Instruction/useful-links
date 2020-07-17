@@ -1,0 +1,8 @@
+CSS Validator:
+https://jigsaw.w3.org/css-validator/#validate_by_input
+
+CSS Cheatsheet:
+https://htmlcheatsheet.com/css/
+
+CSS W3 Schools:
+https://www.w3schools.com/css/default.asp

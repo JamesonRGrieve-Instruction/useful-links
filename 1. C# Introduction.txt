@@ -1,0 +1,5 @@
+Microsoft Documentation C#:
+https://docs.microsoft.com/en-us/dotnet/csharp/
+
+W3 Schools C#:
+https://www.w3schools.com/cs/
