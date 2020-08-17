@@ -6,3 +6,6 @@ https://htmlcheatsheet.com/
 
 HTML W3 Schools:
 https://www.w3schools.com/html/default.asp
+
+Facebook Sharing Debugger:
+https://developers.facebook.com/tools/debug/
