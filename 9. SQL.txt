@@ -1,0 +1,2 @@
+Data Types:
+https://mariadb.com/kb/en/data-types/
