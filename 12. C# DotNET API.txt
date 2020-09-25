@@ -1,0 +1,11 @@
+HTTP Methods:
+https://www.w3schools.com/tags/ref_httpmethods.asp
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+Status Codes:
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+DotNET API Documentation:
+https://dotnet.microsoft.com/apps/aspnet/apis
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1
