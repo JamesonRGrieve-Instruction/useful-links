@@ -14,3 +14,11 @@ https://www.linkedin.com/learning/learning-c-sharp-3/welcome
 O'Reilly C#:
 https://search.library.ualberta.ca/catalog/8958230
 
+TutorialsPoints C#:
+https://www.tutorialspoint.com/csharp/
+
+TutorialsTeacher C#:
+https://www.tutorialsteacher.com/csharp/csharp-tutorials
+
+C# Corner: 
+https://www.c-sharpcorner.com/
