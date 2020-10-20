@@ -4,10 +4,6 @@ https://docs.microsoft.com/en-us/dotnet/csharp/
 W3 Schools C#:
 https://www.w3schools.com/cs/
 
-Creating a Console Application in Visual Studio:
-https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019
-https://www.w3schools.com/cs/cs_getstarted.asp
-
 LinkedIn Learning C#:
 https://www.linkedin.com/learning/learning-c-sharp-3/welcome
 
@@ -22,3 +18,14 @@ https://www.tutorialsteacher.com/csharp/csharp-tutorials
 
 C# Corner: 
 https://www.c-sharpcorner.com/
+
+C# Online Compilers:
+https://repl.it/languages/csharp
+https://dotnetfiddle.net/
+
+Creating a Console Application in Visual Studio:
+https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019
+https://www.w3schools.com/cs/cs_getstarted.asp
+
+Debugging in Visual Studio:
+https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json&view=vs-2019
