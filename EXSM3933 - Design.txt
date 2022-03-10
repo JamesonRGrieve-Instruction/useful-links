@@ -1,12 +1,3 @@
-Writing Pseudocode:
-https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/
-
-Flowcharting Symbols:
-https://www.gliffy.com/blog/guide-to-flowchart-symbols
-
-General UML:
-https://tallyfy.com/uml-diagram/
-
 How to Improve your UI/UX design skills as a developer
 https://www.freecodecamp.org/news/how-to-improve-your-ui-ux-design-skills-as-a-developer-1fd96a49d807/
 
