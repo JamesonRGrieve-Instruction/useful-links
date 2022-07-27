@@ -6,6 +6,9 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 Pomelo MySQL Entity Framework Documentation:
 https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql
 
+Install DotNET EF:
+dotnet tool install --global dotnet-ef 
+
 DotNET EF Commands:
 https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet
 
