@@ -1,9 +1,0 @@
-Writing Pseudocode:
-https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/
-
-Flowcharting Symbols:
-https://www.gliffy.com/blog/guide-to-flowchart-symbols
-
-General UML:
-https://tallyfy.com/uml-diagram/
-
