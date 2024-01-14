@@ -9,3 +9,6 @@ https://www.w3schools.com/html/default.asp
 
 Facebook Sharing Debugger:
 https://developers.facebook.com/tools/debug/
+
+HTML MDN Web Docs:
+https://developer.mozilla.org/en-US/docs/Web/HTML
