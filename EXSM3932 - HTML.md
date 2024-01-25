@@ -4,3 +4,4 @@
 2. [HTML Cheatsheet](https://htmlcheatsheet.com/)
 3. [HTML W3 Schools](https://www.w3schools.com/html/default.asp)
 4. [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+5. [Mozilla Developer Network Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
